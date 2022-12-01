@@ -1,7 +1,7 @@
 <h1 align="center">Imagine a 🎮 Game!</h1>
 <div align="center">
   <a href="https://discord.com/users/867741983774212166">
-    <img src="https://lanyard.cnrad.dev/api/867741983774212166?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)"><img src="https://data.whicdn.com/images/287722934/original.gif" width="375" style="border-radius:50%">
+    <img src="https://lanyard.cnrad.dev/api/867741983774212166?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)"><img src="https://media.discordapp.net/attachments/965155548611899422/1047849530097418300/welcome.png" width="375" style="border-radius:50%">
   </a>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=640&lines=Hi!+I'm+Kravon%2C+known+as+Jamien%230378+on+Discord;I'm+a+Discord+Bot+Developer+and+a+Game+Developer" alt="Typing SVG" /></a>
